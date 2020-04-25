@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':test6-10_autocompletetextview'
 rootProject.name='CookMap'
